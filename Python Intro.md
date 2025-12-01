@@ -127,9 +127,9 @@
         -  `pop(keys)`删除键值对
     5. `count()`方法：
         `___.count(element)`:只有字典和集合（不重复）没有这个方法
-    6. `sourt()`方法：
-        `____.sourt(key = ,reverse = )`
-        `____ = sourted(____,key = ,reverse = )`
+    6. `sort()`方法：
+        `____.sort(key = ,reverse = )`
+        `____ = sorted(____,key = ,reverse = )`
     7. 推导式：
         - **列表推导式**（List Comprehension）是一种简洁且高效的创建新列表的方法。它允许你在一行代码中创建新的列表，同时可以包含条件判断和其他逻辑。
 
@@ -994,4 +994,5 @@ def square(num):
 decorated_square = decorator(square)
 for i in range(num):
     print(decorated_square(num))
+
 ```
