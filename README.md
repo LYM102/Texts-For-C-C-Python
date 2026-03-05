@@ -1,4 +1,4 @@
-# Python/C/C++ 笔记汇总（更新中）
-> Welcome to this project
-> 希望你能觉得有用😊
+# Python/C/C++ Notes
+> These are my own notes for courses
+> Hope you can find them usefull😊
 > thanks!!
